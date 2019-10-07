@@ -240,6 +240,12 @@ h2{
 	padding:0 0 3vh 0;
 }
 
+.facts {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5vh;
+}
+
 .facts div{
     width:46%;
 }
@@ -355,4 +361,27 @@ footer{
     .middle-img {
         padding: 0;
     }
+
+    .services-header {
+        width: 90%;
+        margin: 0 auto;
+    }
+    
+    .box {
+        width: 100%;
+    }
+
+    .facts {
+        flex-direction: column-reverse;
+    }
+
+    .facts div {
+        width:100%;
+    }
+
+    .services-info-img {
+        width: 100%;
+    }
+
+
 }
