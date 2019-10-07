@@ -210,7 +210,7 @@ h2{
 
 .services{
 	padding:0 0 5vh 0;
-	border-bottom:1px solid black;
+	border-bottom:2px solid black;
 }
 
 .services p{
@@ -366,7 +366,7 @@ footer{
         width: 90%;
         margin: 0 auto;
     }
-    
+
     .box {
         width: 100%;
     }
